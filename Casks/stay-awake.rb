@@ -1,6 +1,6 @@
 cask "stay-awake" do
-  version "1.0.1"
-  sha256 "fc563914f64fd7bcf46e910182001998cb318bc298233c7e44103c517eeb4f39"
+  version "1.1.0"
+  sha256 "8df0f224f525fb373a9b3924c16f6acf4435a250e710d0cc0728a9772865e42f"
 
   url "https://github.com/shoootyou/stay-awake/releases/download/v#{version}/Stay.Awake_#{version}_aarch64.dmg"
   name "Stay Awake"
