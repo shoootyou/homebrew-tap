@@ -5,7 +5,7 @@ cask "stay-awake" do
   url "https://github.com/shoootyou/stay-awake/releases/download/v#{version}/Stay.Awake_#{version}_aarch64.dmg"
   name "Stay Awake"
   desc "Keep your computer awake and active"
-  homepage "https://github.com/shoootyou/stay-awake"
+  homepage "https://shoootyou.dev/projects/stay-awake/"
 
   app "Stay Awake.app"
 
